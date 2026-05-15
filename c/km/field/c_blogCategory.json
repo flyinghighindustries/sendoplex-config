@@ -1,0 +1,13 @@
+{
+  "$id": "c_blogCategory",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Blog Category",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

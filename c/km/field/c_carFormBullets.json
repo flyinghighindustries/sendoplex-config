@@ -1,0 +1,18 @@
+{
+  "$id": "c_carFormBullets",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Car Form USP Bullets",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

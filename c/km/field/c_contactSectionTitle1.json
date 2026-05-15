@@ -1,0 +1,13 @@
+{
+  "$id": "c_contactSectionTitle1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Contact Section Title 1",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

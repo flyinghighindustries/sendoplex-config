@@ -1,0 +1,13 @@
+{
+  "$id": "c_mapIframe",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Map Embed iframe",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

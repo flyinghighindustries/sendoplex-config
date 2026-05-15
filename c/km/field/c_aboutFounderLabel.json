@@ -1,0 +1,13 @@
+{
+  "$id": "c_aboutFounderLabel",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Founder Label",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

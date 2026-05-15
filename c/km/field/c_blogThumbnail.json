@@ -1,0 +1,13 @@
+{
+  "$id": "c_blogThumbnail",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Blog Thumbnail",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true
+    }
+  },
+  "typeId": "image"
+}
