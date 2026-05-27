@@ -56,7 +56,11 @@
     "c_trustItemLabels",
     "c_trustItemValues",
     "c_termsContent",
-    "c_cookiesContent"
+    "c_cookiesContent",
+    "c_heroSubCopy",
+    "c_partsNotFoundBody",
+    "c_partnerPlatformNames",
+    "c_partnerPlatformUrls"
   ],
   "required": []
 }

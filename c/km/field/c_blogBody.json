@@ -1,0 +1,9 @@
+{
+  "$id": "c_blogBody",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Blog Body Paragraphs",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "list",
+  "type": { "listType": { "typeId": "string", "type": { "stringType": { "stereotype": "MULTILINE" } } } }
+}
