@@ -5,6 +5,121 @@
   "displayName": "Location",
   "presentationEntries": [
     {
+      "displayName": "Website",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Veebileht" }],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Hero",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Avaosa" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_heroSlogan" },
+        { "id": "c_heroDescription" },
+        { "id": "c_heroSubCopy" },
+        { "id": "c_heroImage" },
+        { "id": "c_heroButton" },
+        { "id": "c_heroSecondaryButton" },
+        { "id": "c_trustItemLabels" },
+        { "id": "c_trustItemValues" },
+        { "id": "c_heroStatKicker" },
+        { "id": "c_heroStatNumber" },
+        { "id": "c_heroStatLabel" }
+      ]
+    },
+    {
+      "displayName": "Parts",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Varuosad" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_partsSectionTitle" },
+        { "id": "c_partsSectionDescription" },
+        { "id": "c_partsNotFoundBody" },
+        { "id": "c_partnerPlatformNames" },
+        { "id": "c_partnerPlatformUrls" },
+        { "id": "c_partsContactEmail" }
+      ]
+    },
+    {
+      "displayName": "Car Form",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Auto vorm" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_carFormTitle" },
+        { "id": "c_carFormDescription" },
+        { "id": "c_carFormBullets" },
+        { "id": "c_carFormTestimonialQuote" },
+        { "id": "c_carFormTestimonialAuthor" },
+        { "id": "c_carFormTestimonialMeta" },
+        { "id": "c_carFormEndpoint" }
+      ]
+    },
+    {
+      "displayName": "About",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Meist" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_aboutTitle" },
+        { "id": "c_aboutDescription" },
+        { "id": "c_aboutPhoto" },
+        { "id": "c_aboutSignature" },
+        { "id": "c_aboutFounderLabel" }
+      ]
+    },
+    {
+      "displayName": "Blog",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Blogi" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_blogSectionTitle" },
+        { "id": "c_blogSectionDescription" },
+        { "id": "c_blogArticles" }
+      ]
+    },
+    {
+      "displayName": "Contact",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Kontakt" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_contactSectionTitle1" },
+        { "id": "c_contactSectionTitle2" },
+        { "id": "c_contactSectionTitle3" },
+        { "id": "c_mapIframe" }
+      ]
+    },
+    {
+      "displayName": "Brand and Navigation",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Brand ja navigatsioon" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_navigationButton" },
+        { "id": "c_favicon" },
+        { "id": "c_availableLocales" },
+        { "id": "c_registrationCode" },
+        { "id": "c_vatNumber" },
+        { "id": "c_privacyPolicy" },
+        { "id": "c_termsContent" },
+        { "id": "c_cookiesContent" }
+      ]
+    },
+    {
+      "displayName": "Other Sections",
+      "displayNameTranslations": [{ "localeCode": "et", "value": "Muud sektsioonid" }],
+      "entryType": "SECTION",
+      "fields": [
+        { "id": "c_locationSectionTitle" },
+        { "id": "c_locationSectionDescription" },
+        { "id": "c_whySectionTitle" },
+        { "id": "c_featuredserviceTitle" },
+        { "id": "c_simpleServicesproductsTitle" },
+        { "id": "c_photoGalleryTitle" },
+        { "id": "c_hoursTitle" },
+        { "id": "c_basicFormTitle" },
+        { "id": "c_basicFormDescription" },
+        { "id": "c_faqTitle" }
+      ]
+    },
+    {
       "displayName": "Content",
       "entryType": "DIVIDER"
     },
